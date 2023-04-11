@@ -1,5 +1,5 @@
-# iMovieRec: a hybrid movie recommendation method based on user-image-item mode
-Movie repository is to supplement the paper "iMovieRec: a hybrid movie recommendation method based on user-image-item mode".
+# iMovieRec: a hybrid movie recommendation method based on user-image-item model
+Movie repository is to supplement the paper "iMovieRec: a hybrid movie recommendation method based on user-image-item model".
 
 ## Abstract
 We propose iMovieRec, a hybrid movie recommendation method that employs an image-user-item model, which utilizes both CF models and graph features. The purpose of this model is to efficiently learn the interactions between users and items and the key features of the poster images using single layer neural networks and matrix factorization. In particular, we consider various types of graph architectures to determine the graph structure that would express the relationship between users and items. The experimental results obtained using two benchmarking datasets indicate that iMovieRec is more efficient than the other recommendation models, which exhibit limited and varied image feature effects. In addition, we make both our datasets and the iMovieRec model publicly available.
